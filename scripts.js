@@ -36,6 +36,6 @@ const r = new rive.Rive({
 
 
 window.addEventListener('resize', ()=>{
-        r.resizeDrawingSurfaceToCanvas();
+    r.resizeDrawingSurfaceToCanvas();
 })
 
