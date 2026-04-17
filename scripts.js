@@ -2,7 +2,7 @@ const clickArea = document.getElementById("main-div")
 
 
 const r = new rive.Rive({
-    src: "async_callback_2903_export.riv",
+    src: "async_callback_1704_export_removed_ghosts.riv",
     canvas: document.getElementById("rive-canvas1"),
     autoplay: true,
     autoBind: true,
